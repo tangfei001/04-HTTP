@@ -1,0 +1,47 @@
+
+Conteny-Type常用的统计：
+application/x-www-form-urlencodeed     form表单提交数据
+multpart/form-data                     表单文件上传提交
+applicaton/json                        序列化json提交文件
+text/xml                               xml格式提交文件
+
+HTTP协议
+
+
+http://www.baidu.com?so=selenim
+post
+
+无状态的协议  cookie技术的发展
+Set-Cookie: username=wuya; expires=Thu, 16-Aug-2018 15:04:02 GMT; Max-Age=3600; 
+Path=/
+NAME:COOK的名字
+value:cooke的值
+expire:cookie的过期时间
+path:cookie作用的路径
+
+cookie管理Session信息
+
+
+
+json格式的字符串：类型：字符串  格式：json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Set-Cookie: username=wuya; expires=Thu, 16-Aug-2018 13:46:38 GMT; Max-Age=3600; Path=/
+
+
